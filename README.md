@@ -14,3 +14,13 @@ The assessment will cover a period of three months, from June 2023 to August 202
 800-30 Rev. 1 </a>is used to guide the risk analysis of the information system.
 <hr>
 <h2>Risk assessment</h2>
+by doing the risk assesment we've been able to identify 3 threat incidents and the likelihood of each one of them.
+<hr>
+<h2> Purpose </h2>
+Stakeholders maybe coming from a non-tech background so the aim of the purpose section is to take them in a journey of the thinking proccess simply and without a lot of sophisticated expressions.
+<hr>
+<h2> Remediation Strategy </h2>
+the final part of the report is the Remediation Strategy which is trying to mitigate the risk and provide suitable solutions for closing the vulnerability gap.
+<hr>
+<h2>Conclusion</h2>
+<a href="Vulnerability assessment report.pdf"> The vulnerability assessment </a> provided the risk and how to mitigate it using the suitable resources avalaible for the firm and  it works as a compass for the company regarding their security posture.
