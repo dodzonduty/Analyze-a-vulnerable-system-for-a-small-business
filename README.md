@@ -10,6 +10,7 @@ with other servers on the network. Security measures include SSL/TLS encrypted c
 <hr>
 <h2> Scope of the report </h2>
 The scope of this vulnerability assessment relates to the current access controls of the system.
-The assessment will cover a period of three months, from June 2023 to August 2023. NIST SP
-800-30 Rev. 1 is used to guide the risk analysis of the information system.
+The assessment will cover a period of three months, from June 2023 to August 2023.<a href="NIST SP 800-30 Rev. 1.pdf"> NIST SP
+800-30 Rev. 1 </a>is used to guide the risk analysis of the information system.
 <hr>
+<h2>Risk assessment</h2>
